@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.4players.scillgame": {
-      "version": "file:D:/Projects/Unity/SCILL/SCILL-Unity-SDK/unity-package",
+      "version": "file:../../scill-unity/unity-package",
       "depth": 0,
       "source": "local",
       "dependencies": {
